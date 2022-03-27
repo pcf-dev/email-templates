@@ -13,17 +13,17 @@ var config = {
 gulp.task('export', function() {
   var data = JSON.parse(fs.readFileSync('src/data.json'));
   return merge([
-    gulp.src('./src/*.css').pipe(gulp.dest('./dist')),
-    gulp.src('./src/images/**/*').pipe(gulp.dest('./dist/images')),
+    gulp.src('./src/*.css').pipe(gulp.dest('./docs')),
+    gulp.src('./src/images/**/*').pipe(gulp.dest('./docs/images')),
     gulp.src(config.templates)
     .pipe(mustache(data, { extension: '.html' }))
     .pipe(juice({
       preserveMediaQueries: true
     }))
-    .pipe(gulp.dest('./dist/templates')),
+    .pipe(gulp.dest('./docs/templates')),
     gulp.src(config.pages)
     .pipe(mustache(data, { extension: '.html' }))
-    .pipe(gulp.dest('./dist/'))
+    .pipe(gulp.dest('./docs/'))
   ])
 });
 
