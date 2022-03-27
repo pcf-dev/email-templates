@@ -22,10 +22,12 @@ body {
 	padding: 24px;
 }
 .navigation h2 {
-	font-size: 20px !important;
-	font-weight: bold !important;
 	margin: 0 0 24px !important;
 	padding: 0;
+}
+.navigation h2 a {
+	font-size: 20px !important;
+	font-weight: bold !important;
 }
 .navigation dl {
 	margin-bottom: 24px;
