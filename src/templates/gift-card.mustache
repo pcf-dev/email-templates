@@ -1,0 +1,31 @@
+{{#giftcard}}
+
+{{> ../components/gift-card/header }}
+{{> ../components/gift-card/illustration-hero }}
+
+<table role="presentation" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="content">
+
+      {{#body}}
+        {{> ../components/gift-card/text }}
+      {{/body}}
+
+    </td>
+  </tr>
+</table>
+<hr />
+
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" style="background-color: #f5f5f5  ;">
+  <tr>
+    <td class="content">
+      {{#gift}}
+        {{> ../components/gift-card/gift }}
+      {{/gift}}
+    </td>
+  </tr>
+</table>
+
+{{/giftcard}}
+
+{{> ../components/gift-card/footer }}

@@ -1,0 +1,36 @@
+{{> ../components/header }}
+
+{{> ../components/illustration-hero }}
+
+<hr style="margin-top: 50px" />
+
+<table role="presentation" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="content">
+
+      {{#body1}}
+        {{> ../components/text }}
+      {{/body1}}
+
+      {{#features2}}
+        {{> ../components/features }}
+      {{/features2}}
+
+      {{#body2}}
+        {{> ../components/text }}
+      {{/body2}}
+
+      {{#button3}}
+        {{> ../components/button }}
+      {{/button3}}
+
+    </td>
+  </tr>
+</table>
+
+{{#help}}
+  {{> ../components/help}}
+{{/help}}
+
+
+{{> ../components/footer }}

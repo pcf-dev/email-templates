@@ -1,0 +1,160 @@
+{
+  "root": "",
+  "image": "/images/image-hero.jpg",
+  "illustration": "/images/illustration-hero.jpg",
+  "heading": "Heading 1 nullam quis risus eget urna mollis.",
+  "heading2": "Heading 2 quis risus eget.",
+  "heading3": "Heading 3 mollis ornare vel eu leo.",
+  "heading4": "Heading 4 quis risus eget.",
+  "heading5": "Heading 5 eget urna mollis.",
+  "heading6": "Heading 6 mollis ornare vel eu leo.",
+  "body1": {
+    "id": "body1",
+    "content": "<p>Dear Steve,</p><p>Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>"
+  },
+  "body2": {
+    "id": "body2",
+    "content": "<p>Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>"
+  },
+  "body3": {
+    "id": "body3",
+    "content": "<p>Thank you for joining! Cras justo odio, dapibus ac facilisis in, egestas eget quam. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. </p>"
+  },
+  "body4": {
+    "id": "body4",
+    "content": "<p>We are so glad you are a part of the community! Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>"
+  },
+  "body5": {
+    "id": "body5",
+    "content": "<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Please email us at <a href='mailto:hello@hello.com'>hello@hello.com</a>.</p>"
+  },
+  "body6": {
+    "id": "body6",
+    "content": "<p>You will have access to the following. <ul><li>Dolor Elit</li><li>Photo collage options</li><li>Inceptos Parturient Ullamcorper</li><li>Magna Tristique Mattis</li><li>10% off and free shipping on all orders!</li></ul></p>"
+  },
+  "body7": {
+    "id": "body7",
+    "content": "<p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>"
+  },
+  "body8": {
+    "id": "body8",
+    "content": "<p>Congratulations on becoming a subscriber! You have access to the following:<ul><li>Sollicitudin Lorem Tristique</li><li>Vestibulum Vulputate Sem</li><li>Amet Mattis</li><li>Egestas Adipiscing Fermentum</li><li>Dolor Quam Tristique</li></ul></p>"
+  },
+  "button1": {
+    "id": "button1",
+    "url": "https://papercranefactory.com",
+    "label": "Check us out"
+  },
+  "button2": {
+    "id": "button2",
+    "url": "https://papercranefactory.com",
+    "label": "Order a book"
+  },
+  "button3": {
+    "id": "button3",
+    "url": "https://papercranefactory.com",
+    "label": "Get started"
+  },
+  "button4": {
+    "id": "button3",
+    "url": "https://papercranefactory.com",
+    "label": "Get started"
+  },
+  "button5": {
+    "id": "button5",
+    "url": "https://papercranefactory.com",
+    "label": "Start Creating"
+  },
+  "button6": {
+    "id": "button6",
+    "url": "https://papercranefactory.com",
+    "label": "Upgrade"
+  },
+  "button7": {
+    "id": "button7",
+    "url": "https://papercranefactory.com",
+    "label": "Start Creating"
+  },
+  "features1": {
+    "features": [
+      {
+        "title": "Image Collages",
+        "blurb": "Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+        "image": "/images/feature-image.jpg"
+      }
+    ]
+  },
+  "features2": {
+    "features": [
+      {
+        "title": "Image Collages",
+        "blurb": "Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+        "image": "/images/feature-image.jpg"
+      },
+      {
+        "title": "Premium Designs",
+        "blurb": "Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+        "image": "/images/feature-image.jpg"
+      }
+    ]
+  },
+  "features3": {
+    "features": [
+      {
+        "title": "Image Collages",
+        "blurb": "Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+        "image": "/images/feature-image.jpg"
+      },
+      {
+        "title": "Premium Designs",
+        "blurb": "Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+        "image": "/images/feature-image.jpg"
+      },
+      {
+        "title": "Premium Designs",
+        "blurb": "Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
+        "image": "/images/feature-image.jpg"
+      }
+    ]
+  },
+  "giftcard": {
+    "illustration": "/images/gift-card.png",
+    "body": {
+      "content": "<p>Hi Steve,</p><p>Sarah has sent you a gift from Paper Crane Factory! Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p><p>We hope you love it!</p>"
+    },
+    "gift": {
+      "label": "$50 Curly Deluxe Giftcard",
+      "code": "Mb79Y4lj"
+    },
+    "button": {
+      "label": "Create an account",
+      "url": "https://papercranefactory.com"
+    }
+  },
+  "help": {
+    "heading": "Need help?",
+    "blurb": "Curabitur blandit tempus porttitor.",
+    "button": {
+      "label": "Contact Us",
+      "url": "https://papercranefactory.com",
+      "outline": true
+    }
+  },
+  "signatures": [
+    {
+      "name": "Will Hays",
+      "title": "Guy",
+      "phone": "555-555-5555"
+    },
+    {
+      "name": "Cal MacAllister",
+      "title": "Dude",
+      "phone": "555-555-5555"
+    },
+    {
+      "name": "Yas Oktay",
+      "title": "Supreme Leader of the High Council",
+      "phone": "666-666-6666"
+    }
+  ]
+}
